@@ -141,13 +141,6 @@ This is a typical small office setup:
 - Access Points extend wired networks wirelessly
 - Real networks combine multiple devices working together, each with a specific job
 
-## Practice Exercise
-- Open Packet Tracer and place each device type (hub, switch, router, AP, 
-  firewall, modem, server) on the canvas — take a screenshot for your `images/` folder
-- Try connecting 2 PCs through a hub vs through a switch, and explain the 
-  difference in behavior
-- Draw your home network using these device types and label which OSI layer 
-  each one operates at
 
 ## Next Steps
 Now that you know the devices, learn **how data travels through them** → 
