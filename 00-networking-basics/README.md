@@ -105,5 +105,5 @@ Examples of things a network lets you do:
   Mac/Linux: `ifconfig` or `ip a`)
 
 ## Next Steps
-Now that you understand what a network is, move to the OSI Model to learn 
-**how** data actually travels across that network → [01 - OSI Model](../01-osi-model)
+Now that you understand what a network is, move to Networking Devices to 
+learn about the hardware that makes up a network → [01 - Networking Devices](../01-networking-devices)
