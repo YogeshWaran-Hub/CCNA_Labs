@@ -15,7 +15,6 @@ Studying for CCNA 200-301 | Building practical networking skills through labs
 ## Topics
 
 - [01 - OSI Model](./01-osi-model)
-- [02 - VLANs](./02-vlans)
 
 *(More topics added regularly as I progress through my studies)*
 
