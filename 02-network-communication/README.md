@@ -1,10 +1,4 @@
-# 🌐 Lab 02 – Network Communication
-
-> **CCNA 200-301 | Network Fundamentals**
-
-![Cisco](https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge)
-![Lab](https://img.shields.io/badge/Lab-02-success?style=for-the-badge)
-
+#  Lab 02 – Network Communication
 ---
 
 # 📖 Overview
