@@ -567,3 +567,13 @@ A user opens **www.example.com**.
 8. The response is sent back to the client.
 
 ---
+---
+
+## 🚀 Next Steps
+
+Now that you understand **how devices communicate**, it's time to learn **how data is processed, encapsulated, and transmitted through different networking layers**.
+
+In the next lab, you'll explore the **OSI (Open Systems Interconnection) Model**, a 7-layer framework that explains how network communication works from the application on your device to the physical transmission of bits across the network.
+
+➡️ **Next Lab:**  
+**[03 - OSI Model](../03_OSI_Model/README.md)**
