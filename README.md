@@ -13,8 +13,9 @@ Studying for CCNA 200-301 | Building practical networking skills through labs
 - Cisco Packet Tracer
 
 ## Topics
+- [00 - Networking Basics](./00-networking-basics)
+- [01 - Networking Devices](./00-networking-devices)
 
-- [01 - OSI Model](./01-osi-model)
 
 *(More topics added regularly as I progress through my studies)*
 
