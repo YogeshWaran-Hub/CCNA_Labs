@@ -567,18 +567,3 @@ A user opens **www.example.com**.
 8. The response is sent back to the client.
 
 ---
-
-# 📚 Summary
-
-In this lab, you learned:
-
-- What network communication is
-- The components required for communication
-- The differences between Simplex, Half-Duplex, and Full-Duplex
-- The four communication types: Unicast, Broadcast, Multicast, and Anycast
-- The most common wired and wireless transmission media
-- How encapsulation and decapsulation prepare data for transmission and reception
-
-These concepts provide the foundation for advanced CCNA topics such as Ethernet, IP addressing, switching, routing, VLANs, and routing protocols.
-
----
