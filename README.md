@@ -15,6 +15,7 @@ Studying for CCNA 200-301 | Building practical networking skills through labs
 ## Topics
 - [00 - Networking Basics](./00-networking-basics)
 - [01 - Networking Devices](./00-networking-devices)
+- [02 - Networking Communication](./00-networking-communication)
 
 
 *(More topics added regularly as I progress through my studies)*
