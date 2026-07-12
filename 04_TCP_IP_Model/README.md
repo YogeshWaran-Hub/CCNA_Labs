@@ -1,4 +1,4 @@
-#  TCP/IP Model
+# 04 - TCP/IP Model
 
 The **TCP/IP (Transmission Control Protocol/Internet Protocol) Model** is the standard networking model used by the Internet and modern computer networks. Unlike the OSI Model, which is a conceptual reference model, the TCP/IP Model is a practical protocol suite that defines how devices communicate over a network.
 
