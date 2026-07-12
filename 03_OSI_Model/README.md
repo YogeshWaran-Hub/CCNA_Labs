@@ -380,7 +380,6 @@ Bottom → Top
 **Please Do Not Throw Sausage Pizza Away**
 
 ---
----
 
 # 🚀 Next Step
 
