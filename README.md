@@ -26,7 +26,7 @@ Each folder includes:
 - A README explaining the concept and lab goal
 - Network topology (diagram or screenshot)
 - Device configurations
-- Key commands and troubleshooting notes
+- Key commands
 ## Contact
 Feel free to connect or reach out with feedback!
 - LinkedIn: Yogeshwaran - https://www.linkedin.com/in/yogeshwaran-m2001/
