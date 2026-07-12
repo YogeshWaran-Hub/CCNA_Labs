@@ -380,3 +380,13 @@ Bottom → Top
 **Please Do Not Throw Sausage Pizza Away**
 
 ---
+---
+
+# 🚀 Next Step
+
+Now that you understand the **OSI Model** and the responsibilities of its seven layers, it's time to learn how modern networks actually communicate.
+
+While the OSI Model provides a **conceptual framework** for understanding network communication, real-world networks use the **TCP/IP Model**, which forms the foundation of the Internet and most modern communication systems.
+
+**➡️ Next Lab:**  
+**[04 - TCP/IP Model](../04_TCP_IP_Model/README.md)**
