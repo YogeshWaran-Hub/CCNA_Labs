@@ -1,4 +1,4 @@
-#  Lab 02 – Network Communication
+# 02 – Network Communication
 ---
 
 # 📖 Overview
