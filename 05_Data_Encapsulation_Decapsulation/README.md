@@ -1,4 +1,4 @@
-# 📦 05 - Data Encapsulation & Decapsulation
+# 05 - Data Encapsulation & Decapsulation
 
 > Learn how data is prepared, transmitted, and received across a network using the processes of encapsulation and decapsulation.
 
