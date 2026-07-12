@@ -17,7 +17,7 @@ Studying for CCNA 200-301 | Building practical networking skills through labs
 - [01 - Networking Devices](./00-networking-devices)
 - [02 - Networking Communication](./00-networking-communication)
 - [03 - OSI Model](./03_OSI_Model)
-- [04 - TCP_IP Model](./03_TCP_IP_Model)
+- [04 - TCP_IP Model](./04_TCP_IP_Model)
 
 
 
