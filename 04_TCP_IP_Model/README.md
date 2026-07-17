@@ -320,9 +320,11 @@ Suppose a user opens **https://www.example.com**.
 
 ---
 
-## 🚀 Next Steps
+# 🚀 Next Step
 
-Now that you understand how the TCP/IP Model organizes network communication, the next step is to learn **how data is packaged and prepared for transmission**.
+Now that you understand the **TCP/IP Model** and how its layers work together to enable end-to-end communication, it's time to learn how data is prepared for transmission across a network.
 
-**Next Lab:**
-➡️ **05 - Data Encapsulation & Decapsulation**
+In the next lab, you'll explore **Data Encapsulation and Decapsulation**, where you'll learn how data is wrapped with protocol-specific headers and trailers as it moves down the TCP/IP stack and how these are removed at the receiving end to recover the original data.
+
+**➡️ Next Lab:**  
+[**05 - Data Encapsulation & Decapsulation**](../05_Data_Encapsulation_Decapsulation/README.md)
