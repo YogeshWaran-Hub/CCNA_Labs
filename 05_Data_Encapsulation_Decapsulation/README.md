@@ -467,8 +467,11 @@ Explain every stage.
 
 ---
 
-## 🚀 Next Step
+# 🚀 Next Step
 
-Now that you understand how data is packaged, transmitted, and received across a network, the next topic is **Ethernet Fundamentals**. You'll learn how Ethernet works, how frames are structured, how MAC addresses are used, and how switches forward traffic within a Local Area Network (LAN).
+Now that you understand **Data Encapsulation and Decapsulation** and how data is packaged and unpackaged as it travels through the network layers, it's time to explore the **Ethernet Frame Structure**.
 
-**➡️ 06 - Ethernet Fundamentals**
+In the next lab, you'll learn how Ethernet frames are constructed, the purpose of each field, how MAC addresses are used for local communication, and how Ethernet ensures reliable data transmission within a Local Area Network (LAN).
+
+**➡️ Next Lab:**  
+[**06 - Ethernet Frame Structure**](../06-Ethernet-Frame-Structure/README.md)
