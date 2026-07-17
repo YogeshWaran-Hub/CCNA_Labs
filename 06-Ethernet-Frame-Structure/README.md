@@ -91,8 +91,11 @@ After completing this topic, you will be able to:
 - Explain how Ethernet ensures reliable data transmission.
 
 ---
-## 🚀 Next Step
+# 🚀 Next Step
 
-Now that you've learned the **Ethernet Frame Structure** and the purpose of each field within an Ethernet frame, the next step is to understand how devices communicate using **MAC Addressing** and **Address Resolution Protocol (ARP)**. You'll learn how MAC addresses uniquely identify devices on a Local Area Network (LAN) and how ARP maps IP addresses to MAC addresses, enabling successful frame delivery between devices.
+Now that you understand the **Ethernet Frame Structure** and how data is encapsulated for transmission, it's time to learn how Ethernet enables communication between devices on a Local Area Network (LAN).
 
-**➡️ Next: 07 - MAC Addressing & ARP**
+In the next lab, you'll explore **MAC Addressing** and the **Address Resolution Protocol (ARP)**. You'll learn how devices are uniquely identified using MAC addresses and how ARP resolves IP addresses into MAC addresses, allowing Ethernet frames to reach their intended destination.
+
+**➡️ Next Lab:**  
+[**07 - MAC Addressing & ARP**](../07_MAC_Addressing_ARP/README.md)
