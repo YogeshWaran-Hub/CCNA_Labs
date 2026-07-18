@@ -340,6 +340,6 @@ Now that you understand **MAC Addressing** and the **Address Resolution Protocol
 In the next lab, you'll explore **IPv4 Addressing**. You'll learn how IPv4 addresses are structured, how subnet masks define networks and hosts, and how devices use IP addressing to communicate within and across networks.
 
 **➡️ Next Lab:**
-[**08 - IPv4 Addressing**](../08-IPv4-addressing/README.md)
+[**08 - IPv4 Addressing**](../08-IPv4-addresing/README.md)
 
 
