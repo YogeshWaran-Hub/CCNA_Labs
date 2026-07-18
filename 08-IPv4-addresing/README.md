@@ -343,5 +343,5 @@ Now that you understand **IPv4 Addressing**, you know how devices are assigned u
 In the next lab, you'll explore **Subnetting**. You'll learn how to divide a network into smaller subnetworks, calculate network and host ranges, determine broadcast addresses, and efficiently allocate IP address space for different network requirements.
 
 **➡️ Next Lab:**
-[**09 - Subnetting**](../09-Subnetting/README.md)
+[**09 - Subnetting**](../09-subnetting/README.md)
 
