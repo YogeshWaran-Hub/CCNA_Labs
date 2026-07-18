@@ -333,3 +333,13 @@ The MAC address of the system was successfully identified. The ARP table was exa
 
 ---
 
+# 🚀 Next Step
+
+Now that you understand **MAC Addressing** and the **Address Resolution Protocol (ARP)**, you know how devices on a Local Area Network (LAN) identify each other and resolve IP addresses into MAC addresses for successful frame delivery.
+
+In the next lab, you'll explore **IPv4 Addressing**. You'll learn how IPv4 addresses are structured, how subnet masks define networks and hosts, and how devices use IP addressing to communicate within and across networks.
+
+**➡️ Next Lab:**
+[**08 - IPv4 Addressing**](../08-IPv4-addressing/README.md)
+
+
