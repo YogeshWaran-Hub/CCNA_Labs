@@ -19,6 +19,11 @@ Studying for CCNA 200-301 | Building practical networking skills through labs
 - [03 - OSI Model](./03_OSI_Model)
 - [04 - TCP_IP Model](./04_TCP_IP_Model)
 - [05 - Data_Encapsulation_Decapsulation](./05_Data_Encapsulation_Decapsulation)
+- [06-Ethernet-Frame-Structure](./06-Ethernet-Frame-Structure)
+- [07 - MAC Address and ARP](./07-Mac-address-ARP)
+- [08 - IPv4 Addressing](./08-IPv4-addresing)
+- [09 - Subnetting](./09-subnetting)
+- [10 - IPv4 Header](./10-IPv4-header) 
 
 
 
