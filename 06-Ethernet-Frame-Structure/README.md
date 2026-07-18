@@ -98,4 +98,4 @@ Now that you understand the **Ethernet Frame Structure** and how data is encapsu
 In the next lab, you'll explore **MAC Addressing** and the **Address Resolution Protocol (ARP)**. You'll learn how devices are uniquely identified using MAC addresses and how ARP resolves IP addresses into MAC addresses, allowing Ethernet frames to reach their intended destination.
 
 **➡️ Next Lab:**  
-[**07 - MAC Addressing & ARP**](../07_MAC_Addressing_ARP/README.md)
+[**07 - MAC Addressing & ARP**](../07_Mac-address-ARP/README.md)
