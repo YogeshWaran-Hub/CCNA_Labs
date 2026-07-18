@@ -352,3 +352,11 @@ After completing this project, you should be able to:
 
 ---
 
+# 🚀 Next Step
+
+Now that you understand **Subnetting**, you can efficiently divide networks into smaller subnets and determine network, host, and broadcast addresses.
+
+In the next lab, you'll explore the **IPv4 Header**. You'll learn about the structure of an IPv4 packet, the purpose of each header field, and how routers and end devices use this information to deliver packets across networks.
+
+**➡️ Next Lab:**
+[**10 - IPv4 Header**](../10-IPv4-header/README.md)
